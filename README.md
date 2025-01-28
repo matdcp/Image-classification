@@ -32,7 +32,7 @@ This makes GoogLeNet an excellent choice for the multi-class classification prob
 🚀 **Results**
 The project demonstrates how GoogLeNet can effectively classify food images into distinct categories, leveraging its efficient multi-scale architecture to achieve high accuracy on the reduced Food-101 dataset.
 
-📚** How to Run the Project**
+📚**How to Run the Project**
 Clone the repository:
 git clone <repository-url>
 cd <project-directory>
@@ -49,6 +49,6 @@ Matplotlib
 🤝 Contributing
 Contributions, feedback, and improvements are welcome! Open an issue or submit a pull request to help enhance this project. 🚀
 
-🔗** References**
+🔗**References**
 Food-101 Dataset: https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/
 GoogLeNet Paper: "Going Deeper with Convolutions" by Szegedy et al.
